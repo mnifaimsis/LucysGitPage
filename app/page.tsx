@@ -55,7 +55,7 @@ export default function Home() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src="/shootingrange.jpeg"
+            src="https://raw.githubusercontent.com/mnifaimsis/LucysGitPage/main/public/shootingrange.jpeg"
             height="1000"
             width="1000"
             className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
@@ -93,7 +93,7 @@ export default function Home() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src="/projects.jpeg"
+            src="https://raw.githubusercontent.com/mnifaimsis/LucysGitPage/main/public/projects.jpeg"
             height="1000"
             width="1000"
             className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
